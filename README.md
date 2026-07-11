@@ -7,8 +7,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-arinmohanty-black?style=for-the-badge&logo=github)](https://github.com/arinmohanty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arin-mohanty-51a0161b7/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:arinmohanty123@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=arinmohanty&style=for-the-badge&color=7C3AED)](https://github.com/arinmohanty)
 
 </div>
@@ -59,7 +59,43 @@ const arin = {
 
 ---
 
-## 🚀 What I Bring
+## 🚀 Featured Projects
+
+### 🛡️ [CloudShield — Multi-Layer Data Poisoning Detection for Cloud ML](https://github.com/arinmohanty/Cloudshield)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+> A multi-layer defense framework to detect data-poisoning attacks in cloud machine learning pipelines, built on IEEE research protocols.
+
+- 🔐 Constructed a **SHA3-256 Merkle-tree provenance module** and 3 statistical outlier detectors using robust Mahalanobis distance and kernel MMD metrics
+- ⚙️ Automated high-dimensional data cleaning with SciPy, reducing raw data preprocessing time by **25%**
+- 🧪 Executed **10-fold cross-validation** within scikit-learn, validating algorithmic stability across 5 dynamic attack vectors
+- 🎯 Achieved a **94.7% anomaly detection rate** with false positives constrained to just **2.1%** on CIFAR-10 and MNIST benchmarks
+
+---
+
+### ⚖️ LexMind AI — AI-Powered Legal Case Management Backend
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+> A modular Spring Boot backend system for intelligent legal case management with AI-powered task orchestration.
+
+- 🏗️ Engineered a modular backend managing **50+ concurrent REST API endpoints**, integrating JWT for Role-Based Access Control (RBAC)
+- 🔄 Deployed resilient microservices orchestrating asynchronous AI tasks via FastAPI, sustaining **99.9% uptime** through automated fallback mechanisms
+- ⚡ Re-engineered PostgreSQL database architecture with advanced indexing, slashing complex data retrieval latency by **30%** to sub-100ms response times
+- ✅ Authored comprehensive JUnit & Mockito test suites, attaining **85% code coverage** and significantly reducing production deployment bugs
+- 📋 Implemented an AOP audit pipeline and managed schema migrations via Flyway, guaranteeing **100% data consistency**
+
+---
+
+## 💡 What I Bring
 
 - Advanced-level thinking for complex technical challenges
 - Strong execution skills from concept to deployment
@@ -97,9 +133,9 @@ I am currently deepening my work around intelligent systems, automation, scalabl
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Connect](https://www.linkedin.com/) |
+| 💼 LinkedIn | [Connect](https://www.linkedin.com/in/arin-mohanty-51a0161b7/) |
 | 🐙 GitHub | [Follow](https://github.com/arinmohanty) |
-| 📧 Email | [Reach Out](mailto:your.email@example.com) |
+| 📧 Email | [Reach Out](mailto:arinmohanty123@gmail.com) |
 
 </div>
 
@@ -107,6 +143,6 @@ I am currently deepening my work around intelligent systems, automation, scalabl
 
 <div align="center">
 
-⭐ If my work resonates with you, feel free to connect. I’m always interested in meaningful projects and strong teams.
+⭐ If my work resonates with you, feel free to connect. I'm always interested in meaningful projects and strong teams.
 
 </div>
