@@ -1,80 +1,112 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arin+Mohanty;Advanced+Software+Engineer;AI%2FML+%7C+Full-Stack+%7C+Backend+Developer;Building+Scalable%2C+Smart%2C+Production-Ready+Solutions" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h1 align="center">🚀 Turning Ideas into High-Impact Software</h1>
+<a href="https://github.com/arinmohanty">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Arin+Mohanty;Software+Engineer+%7C+Builder+%7C+Problem+Solver;Turning+Complex+Ideas+into+Reliable+Products" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Backend%20%7C%20Full%20Stack-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Building%20Scalable%20Solutions-success?style=for-the-badge" />
-</p>
+<br/>
 
-<p align="center">
-  I am a results-driven engineer with advanced problem-solving ability, strong technical depth, and a passion for building intelligent, scalable, and user-focused applications.
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-arinmohanty-black?style=for-the-badge&logo=github)](https://github.com/arinmohanty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=arinmohanty&style=for-the-badge&color=7C3AED)](https://github.com/arinmohanty)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I thrive at the intersection of innovation and execution. My work focuses on creating robust software solutions that are not only functional but also efficient, scalable, and ready for real-world impact. I bring a strong command of modern development practices, software architecture, and advanced technical concepts that help turn complex requirements into clean, powerful products.
+I build software that is thoughtful, scalable, and useful. My work sits at the intersection of engineering depth, product thinking, and practical problem solving. I enjoy creating systems that are not only functional, but also elegant, maintainable, and built to last.
 
-- Advanced proficiency in software development, problem solving, and system design
-- Strong understanding of AI/ML, data-driven solutions, and modern application development
-- Experience building reliable, high-quality products with performance and scalability in mind
-- Passionate about continuous learning, innovation, and delivering measurable impact
+```text
+const arin = {
+  role: "Software Engineer",
+  focus: ["Backend Systems", "AI/ML Solutions", "Full-Stack Development"],
+  mindset: "Ship with purpose, optimize with care, and keep improving",
+  strength: "Turning ideas into strong, dependable products"
+};
+```
 
----
-
-## 🧠 Core Skills
-
-### Advanced Technical Stack
-- Python, JavaScript, Java, C++
-- React, Node.js, REST APIs, Full-Stack Development
-- Data Structures, Algorithms, OOP, Software Design Principles
-- AI/ML, Automation, Data Processing, Analytical Thinking
-- Git, GitHub, Version Control, Collaboration, Debugging
-
-### Strengths That Stand Out
-- Rapid learner with strong adaptability
-- Excellent logical reasoning and debugging skills
-- Ability to build solutions from concept to deployment
-- Strong attention to detail and product quality
-- Confident in working on challenging, high-performance projects
+- 🔧 Strong in building reliable applications with clean architecture and performance in mind
+- 🧠 Interested in AI-driven experiences, automation, and intelligent product development
+- ⚡ Comfortable working across backend logic, APIs, and modern user-facing interfaces
+- 📈 Focused on delivering solutions that are both technically strong and business-ready
 
 ---
 
-## 📌 What I Bring
+## 🛠️ Core Skills
 
-- A professional mindset focused on results and reliability
-- The ability to solve complex technical problems efficiently
-- Strong communication and collaboration skills
-- A growth-oriented approach with deep curiosity for technology
-- Commitment to building software that creates real value
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### AI / Data / Problem Solving
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-## 🚀 Career Mindset
+## 🚀 What I Bring
 
-I am not just looking to write code — I aim to build meaningful solutions, solve difficult challenges, and contribute to teams that value innovation, excellence, and impact.
+- Advanced-level thinking for complex technical challenges
+- Strong execution skills from concept to deployment
+- A growth mindset with curiosity for emerging technologies
+- Clear communication and a collaborative engineering approach
+- A focus on building products that create real value
 
-If you are looking for someone who combines technical depth, adaptability, and a strong drive to deliver, I would be a great fit.
+---
+
+## 🌱 Current Focus
+
+I am currently deepening my work around intelligent systems, automation, scalable application design, and modern development practices. I enjoy solving hard problems in ways that are practical, efficient, and future-ready.
+
+- Building polished software with strong backend foundations
+- Exploring AI-driven features and meaningful integrations
+- Improving architecture, maintainability, and user experience
+- Creating work that reflects both technical depth and creativity
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arinmohanty&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinmohanty&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/arinmohanty"><img src="https://img.shields.io/badge/GitHub-arinmohanty-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arinmohanty&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Connect](https://www.linkedin.com/) |
+| 🐙 GitHub | [Follow](https://github.com/arinmohanty) |
+| 📧 Email | [Reach Out](mailto:your.email@example.com) |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinmohanty&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+---
+
+<div align="center">
+
+⭐ If my work resonates with you, feel free to connect. I’m always interested in meaningful projects and strong teams.
+
+</div>
